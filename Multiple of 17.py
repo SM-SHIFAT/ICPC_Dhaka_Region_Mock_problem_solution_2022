@@ -31,7 +31,9 @@ Output
 1
 0
 
+#####################
 #Here is the solution
+#####################
 Soluation:
 a = int(input())
 if(a!=0):
